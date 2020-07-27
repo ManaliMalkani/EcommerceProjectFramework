@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31350" started-at="2020-07-21T01:06:51Z" finished-at="2020-07-21T01:07:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31350" started-at="2020-07-21T01:06:51Z" finished-at="2020-07-21T01:07:22Z">
+      <class name="GreenKartEcommerce.Checkout">
+        <test-method status="PASS" signature="TC04ValidateProductListsameasAddedByUser()[pri:0, instance:GreenKartEcommerce.Checkout@6eda5c9]" name="TC04ValidateProductListsameasAddedByUser" duration-ms="935" started-at="2020-07-21T06:37:21Z" finished-at="2020-07-21T06:37:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC04ValidateProductListsameasAddedByUser -->
+      </class> <!-- GreenKartEcommerce.Checkout -->
+      <class name="GreenKartEcommerce.AddToCartVegetables">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:GreenKartEcommerce.AddToCartVegetables@384ad17b]" name="initialize" is-config="true" duration-ms="6214" started-at="2020-07-21T06:36:51Z" finished-at="2020-07-21T06:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="TC01VegetablesAddToCart()[pri:0, instance:GreenKartEcommerce.AddToCartVegetables@384ad17b]" name="TC01VegetablesAddToCart" duration-ms="24086" started-at="2020-07-21T06:36:57Z" finished-at="2020-07-21T06:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01VegetablesAddToCart -->
+        <test-method status="PASS" signature="TC02AddtoCart()[pri:0, instance:GreenKartEcommerce.AddToCartVegetables@384ad17b]" name="TC02AddtoCart" duration-ms="86" started-at="2020-07-21T06:37:21Z" finished-at="2020-07-21T06:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02AddtoCart -->
+      </class> <!-- GreenKartEcommerce.AddToCartVegetables -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
